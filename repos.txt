@@ -1,4 +1,5 @@
 # See 'repos.txt.example' file
+therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.10/mhrv-rs-android-universal-v1.9.10.apk
 
 # Format: owner/repo|filter1|filter2|...
 # Filters are case‑insensitive regular expressions (grep -E).
