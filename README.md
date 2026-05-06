@@ -165,5 +165,5 @@ sha256sum FILE_NAME
 
 | File | Size | Download |
 |------|------|----------|
-| `flow-driver-v0.0.4-linux-amd64.zip` | 9.4 MB | [⬇️ Download](https://raw.githubusercontent.com/homelander-79/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-linux-amd64.zip) |
+| `flow-driver-v0.0.4-windows-amd64.zip` | 9.5 MB | [⬇️ Download](https://raw.githubusercontent.com/homelander-79/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-windows-amd64.zip) |
 <!-- RELEASES_END -->
