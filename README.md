@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="nulllatency--flowdriver"></div>
+<div id="kamalalhagh--kevinnet-dns"></div>
 
-### NullLatency--FlowDriver
+### kamalalhagh--kevinnet-dns
 
-🔗 [source](https://github.com/NullLatency/FlowDriver) – [<code><small>v0.0.4</small></code>](https://github.com/NullLatency/FlowDriver/releases/tag/v0.0.4)
+🔗 [source](https://github.com/kamalalhagh/kevinnet-dns) – [<code><small>v3.1.7</small></code>](https://github.com/kamalalhagh/kevinnet-dns/releases/tag/v3.1.7)
 
 | File | Size | Download |
 |------|------|----------|
-| `flow-driver-v0.0.4-windows-amd64.zip` | 9.5 MB | [⬇️ Download](https://raw.githubusercontent.com/homelander-79/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-windows-amd64.zip) |
+| `KevinNet_Windows_x64.exe` | 26.4 MB | [⬇️ Download](https://raw.githubusercontent.com/homelander-79/LatestReleaseMirror/main/releases/kamalalhagh/kevinnet-dns/KevinNet_Windows_x64.exe) |
 <!-- RELEASES_END -->
