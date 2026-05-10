@@ -157,5 +157,16 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="matsuridayo--nekoboxforandroid"></div>
 
+### MatsuriDayo--NekoBoxForAndroid
+
+🔗 [source](https://github.com/MatsuriDayo/NekoBoxForAndroid) – [<code><small>1.4.2</small></code>](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2)
+
+| File | Size | Download |
+|------|------|----------|
+| `NekoBox-1.4.2-arm64-v8a.apk` | 14.5 MB | [⬇️ Download](https://raw.githubusercontent.com/homelander-79/LatestReleaseMirror/main/releases/MatsuriDayo/NekoBoxForAndroid/NekoBox-1.4.2-arm64-v8a.apk) |
+| `NekoBox-1.4.2-armeabi-v7a.apk` | 14.7 MB | [⬇️ Download](https://raw.githubusercontent.com/homelander-79/LatestReleaseMirror/main/releases/MatsuriDayo/NekoBoxForAndroid/NekoBox-1.4.2-armeabi-v7a.apk) |
+| `NekoBox-1.4.2-x86.apk` | 15.4 MB | [⬇️ Download](https://raw.githubusercontent.com/homelander-79/LatestReleaseMirror/main/releases/MatsuriDayo/NekoBoxForAndroid/NekoBox-1.4.2-x86.apk) |
+| `NekoBox-1.4.2-x86_64.apk` | 15.1 MB | [⬇️ Download](https://raw.githubusercontent.com/homelander-79/LatestReleaseMirror/main/releases/MatsuriDayo/NekoBoxForAndroid/NekoBox-1.4.2-x86_64.apk) |
 <!-- RELEASES_END -->
