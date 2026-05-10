@@ -1,6 +1,7 @@
 
 #Kianmhz/GooseRelayVPN|GooseRelayVPN-client-v1.5.0-linux-amd64.tar.gz
-MatsuriDayo/NekoBoxForAndroid
+#MatsuriDayo/NekoBoxForAndroid
 #radioactiveAHM/cf-scanner|cf-scanner_Windows_x86_64.zip
 #xullexer/PYDNS-Scanner|cf-scanner_Windows_x86_64.zip
 
+SagerNet/sing-box|sing-box-1.13.11-windows-amd64.zip
