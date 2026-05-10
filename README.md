@@ -157,5 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="kianmhz--gooserelayvpn"></div>
 
+### Kianmhz--GooseRelayVPN
+
+🔗 [source](https://github.com/Kianmhz/GooseRelayVPN) – [<code><small>v1.6.0</small></code>](https://github.com/Kianmhz/GooseRelayVPN/releases/tag/v1.6.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `GooseRelayVPN-client-v1.6.0-linux-amd64.tar.gz` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/homelander-79/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-linux-amd64.tar.gz) |
 <!-- RELEASES_END -->
