@@ -157,13 +157,5 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="radioactiveahm--cf-scanner"></div>
 
-### radioactiveAHM--cf-scanner
-
-🔗 [source](https://github.com/radioactiveAHM/cf-scanner) – [<code><small>v1.9.0</small></code>](https://github.com/radioactiveAHM/cf-scanner/releases/tag/v1.9.0)
-
-| File | Size | Download |
-|------|------|----------|
-| `cf-scanner_Windows_x86_64.zip` | 3.9 MB | [⬇️ Download](https://raw.githubusercontent.com/homelander-79/LatestReleaseMirror/main/releases/radioactiveAHM/cf-scanner/cf-scanner_Windows_x86_64.zip) |
 <!-- RELEASES_END -->
