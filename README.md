@@ -157,16 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="matsuridayo--nekoboxforandroid"></div>
+<div id="sagernet--sing-box"></div>
 
-### MatsuriDayo--NekoBoxForAndroid
+### SagerNet--sing-box
 
-🔗 [source](https://github.com/MatsuriDayo/NekoBoxForAndroid) – [<code><small>1.4.2</small></code>](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2)
+🔗 [source](https://github.com/SagerNet/sing-box) – [<code><small>v1.13.11</small></code>](https://github.com/SagerNet/sing-box/releases/tag/v1.13.11)
 
 | File | Size | Download |
 |------|------|----------|
-| `NekoBox-1.4.2-arm64-v8a.apk` | 14.5 MB | [⬇️ Download](https://raw.githubusercontent.com/homelander-79/LatestReleaseMirror/main/releases/MatsuriDayo/NekoBoxForAndroid/NekoBox-1.4.2-arm64-v8a.apk) |
-| `NekoBox-1.4.2-armeabi-v7a.apk` | 14.7 MB | [⬇️ Download](https://raw.githubusercontent.com/homelander-79/LatestReleaseMirror/main/releases/MatsuriDayo/NekoBoxForAndroid/NekoBox-1.4.2-armeabi-v7a.apk) |
-| `NekoBox-1.4.2-x86.apk` | 15.4 MB | [⬇️ Download](https://raw.githubusercontent.com/homelander-79/LatestReleaseMirror/main/releases/MatsuriDayo/NekoBoxForAndroid/NekoBox-1.4.2-x86.apk) |
-| `NekoBox-1.4.2-x86_64.apk` | 15.1 MB | [⬇️ Download](https://raw.githubusercontent.com/homelander-79/LatestReleaseMirror/main/releases/MatsuriDayo/NekoBoxForAndroid/NekoBox-1.4.2-x86_64.apk) |
+| `sing-box-1.13.11-windows-amd64.zip` | 19.4 MB | [⬇️ Download](https://raw.githubusercontent.com/homelander-79/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-windows-amd64.zip) |
 <!-- RELEASES_END -->
