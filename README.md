@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="kianmhz--gooserelayvpn"></div>
+<div id="radioactiveahm--cf-scanner"></div>
 
-### Kianmhz--GooseRelayVPN
+### radioactiveAHM--cf-scanner
 
-🔗 [source](https://github.com/Kianmhz/GooseRelayVPN) – [<code><small>v1.6.0</small></code>](https://github.com/Kianmhz/GooseRelayVPN/releases/tag/v1.6.0)
+🔗 [source](https://github.com/radioactiveAHM/cf-scanner) – [<code><small>v1.9.0</small></code>](https://github.com/radioactiveAHM/cf-scanner/releases/tag/v1.9.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `GooseRelayVPN-client-v1.6.0-linux-amd64.tar.gz` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/homelander-79/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-linux-amd64.tar.gz) |
+| `cf-scanner_Windows_x86_64.zip` | 3.9 MB | [⬇️ Download](https://raw.githubusercontent.com/homelander-79/LatestReleaseMirror/main/releases/radioactiveAHM/cf-scanner/cf-scanner_Windows_x86_64.zip) |
 <!-- RELEASES_END -->
